@@ -1,0 +1,89 @@
+*{margin:0px;}
+
+img{
+width: 250px;
+margin: 5px;
+}
+
+
+.photo1{
+float: left;
+}
+
+.photo1{
+float: left;
+size:
+}
+
+.photo2{
+float: right;
+}
+
+
+div{
+padding: 10px;
+}
+
+.content{
+text-align: justify;
+margin-left:15%;
+margin-right:15%;
+
+}
+.Lev{
+color: Orange;
+}
+
+.tigr{
+color: Green;
+}
+.Chin{
+color: 	Gray
+}
+
+body{
+background-image:url("Fon.jpg")
+}
+.bord{
+padding: 10px;
+border: 3px solid orange;
+}
+.bord1{
+padding: 10px;
+border: 3px solid green;
+}
+.bord3{
+padding: 10px;
+border: 3px solid gray;
+}
+.bordM{
+border: 3px solid magenta;
+}
+
+ul{
+list-style-type: none;
+}
+
+ol{
+list-style-type:none;
+}
+
+a:link{color: red;}
+a:visited{color:magenta; text-decoration: line-through;}
+a:hover{color: Cyan; text-decoration: line-through;}
+a:active{background-color:Orange;}
+
+a{text-decoration:none;}
+
+
+    a.rollover {
+    background: url(Лев1.jpg); /* Путь к файлу с исходным рисунком  */
+    display: block; /*  Рисунок как блочный элемент */
+    width: 196px; /* Ширина рисунка */
+    height: 183px; /*  Высота рисунка */
+   } 
+  
+  
+   a.rollover:hover {
+    background: url(Bet.jpg); /* Путь к файлу с заменяемым рисунком  */
+   }
